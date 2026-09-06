@@ -43,10 +43,9 @@ This demo uses an OpenAI-compatible endpoint due to regional API access restrict
    php artisan key:generate
 ```
 
-4. Add your API credentials to `.env`:
-
+4. Add your API credentials to `.env 
 OPENAI_API_KEY=your-key-here
-OPENAI_URL=your-endpoint-here
+OPENAI_URL=your-endpoint-here`:
 
 
 5. Run migrations (if needed) and start the server:
