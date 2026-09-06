@@ -1,12 +1,12 @@
 <?php
 
-namespace App\View\Components\PrismCmp;
+namespace App\View\Components\ChatBotCmp;
 
 use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class TrainPrismProject01Cmp extends Component
+class ChatBotCmp extends Component
 {
     /**
      * Create a new component instance.
@@ -21,6 +21,6 @@ class TrainPrismProject01Cmp extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.prism-cmp.train-prism-project01-cmp');
+        return view('components.chat-bot-cmp.chat-bot-cmp');
     }
 }

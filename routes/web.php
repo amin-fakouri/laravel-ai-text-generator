@@ -1,13 +1,11 @@
 <?php
 
-use App\Livewire\Prism\TestPrism;
+use App\Livewire\ChatBot;
 use Illuminate\Support\Facades\Route;
-use Prism\Prism\Enums\Provider;
-use Prism\Prism\Facades\Prism;
 
 Route::view('/', 'welcome')->name('home');
 
-Route::get('/prism', TestPrism::class);
+Route::get('/laravel-ai', ChatBot::class);
 
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::view('dashboard', 'dashboard')->name('dashboard');
