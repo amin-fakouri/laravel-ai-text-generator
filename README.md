@@ -48,8 +48,8 @@ The exact configuration may depend on the AI provider and endpoint you are using
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/amin-fakouri/prism-text-generator.git
-cd prism-text-generator
+git clone https://github.com/amin-fakouri/larave-ai-text-generator.git
+cd Laravel-ai-text-generator
 ```
 
 ### 2. Install PHP dependencies
