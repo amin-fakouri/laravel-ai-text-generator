@@ -153,8 +153,4 @@ Planned improvements include:
 (
 <img width="1918" height="908" alt="Screenshot 2026-09-06 121407" src="https://github.com/user-attachments/assets/17176e27-040c-4a9c-b2ac-34e64eeb8590" />
 <img width="1913" height="910" alt="Screenshot 2026-09-06 121557" src="https://github.com/user-attachments/assets/3f3e5ce6-4487-4791-9511-d211e47611ea" />
-
-
 )
-
-![Laravel AI Text Generator](https://github.com/user-attachments/assets/f57fa7b7-05e4-4089-bce2-cfc4db7eafa0)
